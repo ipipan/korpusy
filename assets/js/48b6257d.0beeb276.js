@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkorpusy=self.webpackChunkkorpusy||[]).push([[5012],{3487:s=>{s.exports=JSON.parse('{"label":"ukrainski","permalink":"/blog/tags/ukrainski","allTagsPath":"/blog/tags","count":1}')}}]);
