@@ -10,7 +10,7 @@ Poniżej zaprezentowane zostały korpusy znane administratorom portalu. **Prosim
 
 Aute cillum proident occaecat aliquip commodo. Aliqua incididunt deserunt id mollit enim aliquip elit. Commodo culpa ea ad laborum elit cupidatat sit ex tempor proident et ipsum et. Pariatur quis nisi enim anim. Exercitation ea occaecat aute excepteur duis ut duis laborum minim deserunt ex magna eu ex. Sunt nostrud ea reprehenderit ut id.
 
-## Korpusy hisotryczne
+## Korpusy historyczne
 Cillum in eu sunt consequat proident laborum nulla velit enim sunt. Et qui deserunt ea tempor sint occaecat aliquip dolor cillum pariatur reprehenderit ad cupidatat. Elit excepteur culpa eu voluptate quis fugiat. Excepteur sit nisi in anim voluptate ad. Ea aliqua adipisicing velit officia eiusmod magna voluptate do.
 
 ## Korpusy specjalistyczne
