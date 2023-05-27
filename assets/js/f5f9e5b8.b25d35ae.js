@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkorpusy=self.webpackChunkkorpusy||[]).push([[589],{7110:s=>{s.exports=JSON.parse('{"permalink":"/korpusy/blog/tags/korpus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

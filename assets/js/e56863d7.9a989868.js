@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkorpusy=self.webpackChunkkorpusy||[]).push([[8876],{5170:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/korpusy/blog/tags/docusaurus","allTagsPath":"/korpusy/blog/tags","count":4}')}}]);
