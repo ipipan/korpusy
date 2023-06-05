@@ -5,7 +5,7 @@ sidebar_position: 1
 # Lista korpusów
 
 ## Korpusy ogólne
-Referencyjne korpusy polszczyzny — zrównoważone i reprezentatywne. 
+Obszerne referencyjne korpusy polszczyzny użytku ogólnego — zarówno zrównoważone, jak i niezrównoważone. 
 
 ## Korpusy historyczne
 Korpusy gromadzące teksty historyczne, reprezentujące polszczyznę różnych epok (do 1939 r.).
