@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# Narodowy Korpus Języka Polskiego
+# Narodowy Korpus Języka Polskiego: NKJP300
 
-Lorem aute esse consectetur irure veniam sunt est est adipisicing non velit reprehenderit commodo ad. Cillum labore incididunt minim dolor commodo mollit ipsum. Magna mollit et voluptate nostrud est consectetur adipisicing reprehenderit. Anim ut id aliqua dolore nisi ea eu amet et. Ut irure qui aliqua proident sit elit ullamco veniam ut. Officia sint duis cillum anim consectetur.
+Zwrównoważony i reprezentatywny korpus obejmujący teksty polskie od początku XX wieku do roku 2011. 
