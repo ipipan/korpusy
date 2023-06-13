@@ -102,16 +102,16 @@ const config = {
             title: 'Społeczność',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/lingwistyka.komputerowa/',
               },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
+              //{
+              //  label: 'Discord',
+              //  href: 'https://discordapp.com/invite/docusaurus',
+              //},
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/ZIL_IPIPAN',
               },
             ],
           },
@@ -124,7 +124,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/ipipan',
               },
             ],
           },
