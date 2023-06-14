@@ -31,4 +31,5 @@ __Publikacja__: Adam Przepiórkowski, Mirosław Bańko, Rafał L. Górski, and B
     year = "2012",
     address = "Warsaw",
     pdf = "http://nkjp.pl/settings/papers/NKJP_ksiazka.pdf"
-}'''
+}
+```
