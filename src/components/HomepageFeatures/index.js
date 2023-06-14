@@ -8,25 +8,25 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Pariatur labore adipisicing sit anim nulla. Lorem proident nisi id voluptate dolore minim commodo officia exercitation mollit ullamco consequat. Dolore fugiat eiusmod sunt quis ex. Minim est Lorem sit magna ex fugiat excepteur consectetur consectetur mollit veniam aute ex. Eu qui fugiat irure nostrud voluptate tempor ipsum.
+         Korpusy przeznaczone do badań językoznawczych: korpusy zrównoważone współczesnej polszczyzny, korpusy polszczyzny dawnej, korpusy tematyczne, a także korpusy języków innych niż polski. 
       </>
     ),
   },
   {
-    title: 'Dla specjalistów uczenia maszynowego',
+    title: 'Dla informatyków',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Consequat dolore cupidatat duis sint tempor laboris et officia irure labore do. Pariatur consequat dolor sunt laboris Lorem ad aliqua excepteur Lorem. Est anim esse proident do adipisicing do ea. Aute laborum adipisicing ex mollit labore duis. In deserunt sit dolor proident incididunt deserunt aliquip minim non in. Sint anim amet incididunt velit eu. Aute aute irure laboris sit duis minim.
+         Korpusy ręcznie znakowane, przeznaczone do trenowania systemów uczenia maszynowego. 
       </>
     ),
   },
   {
-    title: 'Dla pracujących z językiem naturalnym',
+    title: 'Narzędzia do budowania korpusów',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Id ea pariatur incididunt adipisicing dolor officia minim anim anim occaecat exercitation quis eiusmod. Anim dolore irure voluptate ea ex proident veniam ipsum tempor labore ad. Deserunt aute cillum irure sit. Cillum ut proident excepteur ad anim culpa nisi.
+         Narzędzia do budowania, znakowania i analizowania korpusów przeznaczonych do badań językoznawczych.
       </>
     ),
   },
