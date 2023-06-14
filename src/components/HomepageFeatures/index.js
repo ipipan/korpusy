@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Dla językoznawców',
+    title: 'Korpusy dla językoznawców',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -13,7 +13,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Dla informatyków',
+    title: 'Korpusy dla informatyków',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
