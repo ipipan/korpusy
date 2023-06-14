@@ -10,7 +10,7 @@ Zrównoważony i reprezentatywny korpus obejmujący teksty polskie od początku 
 
 __Strona__: [www.nkjp.pl](http://nkjp.pl)
 
-__Wyszukiwarki__: korpus dostępny jest w trzech różnych wyszukiwarkach
+Korpus dostępny jest w trzech różnych __wyszukiwarkach__:
 * [Poliqarp](http://nkjp.pl/poliqarp/)
 * [Pelcra](http://www.nkjp.uni.lodz.pl/)
 * [MTAS](https://nkjp.nlp.ipipan.waw.pl/)
