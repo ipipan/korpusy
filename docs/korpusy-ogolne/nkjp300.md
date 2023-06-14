@@ -8,10 +8,14 @@ Zwrównoważony i reprezentatywny korpus obejmujący teksty polskie od początku
 
 ## Opis
 
-Strona: [www.nkjp.pl](http://nkjp.pl)
+__Strona__: [www.nkjp.pl](http://nkjp.pl)
 
-Jednostka odpowiedzialna za korpus: konsorcjum Narodowego Korpusu Języka Polskiego składające się z czterech jednostek: [Instytutu Podstaw Informatyki PAN](http://www.ipipan.waw.pl/) (koordynator), [Instytutu Języka Polskiego PAN](http://www.ijp-pan.krakow.pl/), [Wydawnictwa Naukowego PWN](http://www.pwn.pl/) oraz Zakładu Językoznawstwa Komputerowego i Korpusowego [Uniwersytetu Łódzkiego](http://www.uni.lodz.pl/). 
+__Jednostka odpowiedzialna za korpus__: konsorcjum Narodowego Korpusu Języka Polskiego składające się z czterech jednostek: 
+• [Instytutu Podstaw Informatyki PAN](http://www.ipipan.waw.pl/) (koordynator), 
+• [Instytutu Języka Polskiego PAN](http://www.ijp-pan.krakow.pl/), 
+• [Wydawnictwa Naukowego PWN](http://www.pwn.pl/) oraz Zakładu Językoznawstwa Komputerowego 
+• i Korpusowego [Uniwersytetu Łódzkiego](http://www.uni.lodz.pl/). 
 
-Wielkość korpusu: 300 milionów segmentów
+__Wielkość korpusu__: 300 milionów segmentów
 
-Czas powstania: 2007-2012
+__Czas powstania__: 2007-2012
