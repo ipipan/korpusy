@@ -1,7 +1,6 @@
 ---
 sidebar_position: 1
 title: Narodowy Korpus Języka Polskiego: NKJP300
-description: zwrównoważony podkorpus NKJP
 ---
 
 # Narodowy Korpus Języka Polskiego: NKJP300
