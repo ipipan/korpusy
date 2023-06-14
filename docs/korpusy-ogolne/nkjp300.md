@@ -10,6 +10,11 @@ Zrównoważony i reprezentatywny korpus obejmujący teksty polskie od początku 
 
 __Strona__: [www.nkjp.pl](http://nkjp.pl)
 
+__Wyszukiwarki__: korpus dostępny jest w trzech różnych wyszukiwarkach
+* [Poliqarp](http://nkjp.pl/poliqarp/)
+* [Pelcra](http://www.nkjp.uni.lodz.pl/)
+* [MTAS](https://nkjp.nlp.ipipan.waw.pl/)
+
 __Jednostka odpowiedzialna za korpus__: konsorcjum Narodowego Korpusu Języka Polskiego składające się z czterech jednostek:
 * [Instytutu Podstaw Informatyki PAN](http://www.ipipan.waw.pl/) (koordynator), 
 * [Instytutu Języka Polskiego PAN](http://www.ijp-pan.krakow.pl/), 
