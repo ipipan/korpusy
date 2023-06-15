@@ -38,8 +38,7 @@ __Publikacje__:
 ```
 
 ```
-@inproceedings{
-    ogr:2018:parlaclarin,
+@inproceedings{ogr:2018:parlaclarin,
     editor = "Fišer, Darja and Eskevich, Maria and de Jong, Franciska",
     author = "Ogrodniczuk, Maciej",
     publisher = "European Language Resources Association (ELRA)",
