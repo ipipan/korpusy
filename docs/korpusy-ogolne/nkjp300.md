@@ -11,9 +11,9 @@ Zrównoważony i reprezentatywny korpus obejmujący teksty polskie od początku 
 __Strona__: [www.nkjp.pl](http://nkjp.pl)
 
 Korpus dostępny jest w trzech różnych __wyszukiwarkach__:
-* [Poliqarp](http://nkjp.pl/poliqarp/)
-* [Pelcra](http://www.nkjp.uni.lodz.pl/)
-* [MTAS](https://nkjp.nlp.ipipan.waw.pl/)
+* [Poliqarp](http://nkjp.pl/poliqarp/) — znakowanie: lematyzacja, znaczniki morfosyntaktyczne. 
+* [Pelcra](http://www.nkjp.uni.lodz.pl/) — znakowanie: lematyzacja, znaczniki morfosyntaktyczne. 
+* [MTAS](https://nkjp.nlp.ipipan.waw.pl/) — znakowanie: lematyzacja, znaczniki morfosyntaktyczne, rozbiory składniowe (zależnościowe), jednostki nazewnicze. 
 
 __Jednostka odpowiedzialna za korpus__: konsorcjum Narodowego Korpusu Języka Polskiego składające się z czterech jednostek:
 * [Instytutu Podstaw Informatyki PAN](http://www.ipipan.waw.pl/) (koordynator), 
