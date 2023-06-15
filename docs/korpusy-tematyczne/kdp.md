@@ -9,10 +9,10 @@ Korpus Dyskursu Parlamentarnego jest zbiorem anotowanych lingwistycznie tekstów
 __Strona__: [www.kdp.nlp.ipipan.waw.pl](https://kdp.nlp.ipipan.waw.pl/)
 
 __Wyszukiwarka i znakowanie__:
-* [MTAS](https://nkjp.nlp.ipipan.waw.pl/) — znakowanie: lematyzacja, znaczniki morfosyntaktyczne, rozbiory składniowe (zależnościowe), jednostki nazewnicze. 
+* [MTAS](https://kdp.nlp.ipipan.waw.pl/) — znakowanie: lematyzacja, znaczniki morfosyntaktyczne, rozbiory składniowe (zależnościowe), jednostki nazewnicze. 
 
 __Jednostka odpowiedzialna za korpus__:
-* [Instytutu Podstaw Informatyki PAN](http://www.ipipan.waw.pl/), 
+* [Instytut Podstaw Informatyki PAN](http://www.ipipan.waw.pl/), 
 
 __Wielkość korpusu__: 781 milionów segmentów (czerwiec 2023)
 
