@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Korpus Dyskursu Parlamentarnego jest zbiorem anotowanych lingwistycznie tekstów z posiedzeń plenarnych Sejmu i Senatu RP, interpelacji i zapytań poselskich oraz posiedzeń komisji od roku 1919 do chwili obecnej (są stale uzupełniane materiałami z kolejnych posiedzeń). Teksty opisane metadanymi oraz przetworzone automatycznie narzędziami lingwistycznymi (do segmentacji, analizy morfoskładniowej, rozpoznawania grup składniowych i nazw własnych) są dostępne do przeszukiwania oraz pobrania.
 
-__Strona__: [www.kdp.nlp.ipipan.waw.pl]((https://kdp.nlp.ipipan.waw.pl/))
+__Strona__: [www.kdp.nlp.ipipan.waw.pl](https://kdp.nlp.ipipan.waw.pl/)
 
 __Wyszukiwarka i znakowanie__:
 * [MTAS](https://nkjp.nlp.ipipan.waw.pl/) — znakowanie: lematyzacja, znaczniki morfosyntaktyczne, rozbiory składniowe (zależnościowe), jednostki nazewnicze. 
