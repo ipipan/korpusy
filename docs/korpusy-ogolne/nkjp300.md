@@ -10,7 +10,7 @@ Zrównoważony i reprezentatywny korpus obejmujący teksty polskie od początku 
 
 __Strona__: [www.nkjp.pl](http://nkjp.pl)
 
-__Wyszukiwarki_i_znakowanie__: Korpus dostępny jest w trzech różnych wyszukiwarkach oferujących różne funkcje jego przeszukiwania.
+__Wyszukiwarki i znakowanie__: Korpus dostępny jest w trzech różnych wyszukiwarkach oferujących różne funkcje jego przeszukiwania.
 * [Poliqarp](http://nkjp.pl/poliqarp/) — znakowanie: lematyzacja, znaczniki morfosyntaktyczne. 
 * [Pelcra](http://www.nkjp.uni.lodz.pl/) — znakowanie: lematyzacja, znaczniki morfosyntaktyczne. 
 * [MTAS](https://nkjp.nlp.ipipan.waw.pl/) — znakowanie: lematyzacja, znaczniki morfosyntaktyczne, rozbiory składniowe (zależnościowe), jednostki nazewnicze. 
