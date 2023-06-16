@@ -2,17 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.korpusy.pl/blog</id>
     <title>Korpusy.pl Blog</title>
-    <updated>2023-06-16T10:32:40.000Z</updated>
+    <updated>2023-05-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.korpusy.pl/blog"/>
     <subtitle>Korpusy.pl Blog</subtitle>
     <icon>https://www.korpusy.pl/img/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[backup/test]]></title>
-        <id>https://www.korpusy.pl/blog/backup/test</id>
-        <link href="https://www.korpusy.pl/blog/backup/test"/>
-        <updated>2023-06-16T10:32:40.000Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Korpus języka ukraińskiego]]></title>
         <id>https://www.korpusy.pl/blog/korpus-jezyka-ukrainskiego</id>
