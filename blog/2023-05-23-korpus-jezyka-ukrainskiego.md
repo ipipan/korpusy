@@ -1,6 +1,6 @@
 ---
 slug: korpus-jezyka-ukrainskiego
-title: PAWUK: Korpus internetowy języka ukraińskiego
+title: PAWUK, czyli korpus internetowy języka ukraińskiego
 authors: [wkieras]
 tags: [język ukraiński, korpus, internet]
 ---
