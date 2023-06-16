@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkorpusy=self.webpackChunkkorpusy||[]).push([[7851],{8659:s=>{s.exports=JSON.parse('{"label":"IPI PAN","permalink":"/blog/tags/ipi-pan","allTagsPath":"/blog/tags","count":1}')}}]);

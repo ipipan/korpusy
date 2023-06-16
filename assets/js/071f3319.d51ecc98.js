@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkorpusy=self.webpackChunkkorpusy||[]).push([[3343],{478:s=>{s.exports=JSON.parse('{"label":"tworzenie korpus\xf3w","permalink":"/blog/tags/tworzenie-korpusow","allTagsPath":"/blog/tags","count":1}')}}]);

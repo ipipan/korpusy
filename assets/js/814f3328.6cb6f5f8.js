@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkorpusy=self.webpackChunkkorpusy||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"PAWUK, czyli korpus internetowy j\u0119zyka ukrai\u0144skiego","permalink":"/blog/korpus-jezyka-ukrainskiego"}]}')}}]);

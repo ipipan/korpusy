@@ -19,5 +19,27 @@
             <category>korpus</category>
             <category>internet</category>
         </item>
+        <item>
+            <title><![CDATA[Korpusomat wielojęzyczny]]></title>
+            <link>https://www.korpusy.pl/blog/korpusomat-wielojezyczny</link>
+            <guid>https://www.korpusy.pl/blog/korpusomat-wielojezyczny</guid>
+            <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Serwis Korpusomat.pl istnieje już od kilku lat, ale jednym z najczęściej zadawanych przez jego użytkowników pytań dotyczyło możliwości przetwarzania tekstów napisanych w innych językach niż polski. W związku z tym udostępniliśmy niedawno wstępną wersję zupełnie nowego serwisu Korpusomat.eu, których obsługuje aktualnie 30 języków (w tym również polski). Sam proces przetwarzania i anotowania tekstów różni się dość istotnie od tego, który został zaimplementowany na stronie Korpusomat.pl, interfejs obu serwisów jest jednak bardzo podobny. Korpusomat.eu wykorzystuje do przetwarzania dwie znane biblioteki programistyczne spaCy oraz Stanza, oferujące modele do znakowania tekstów w różnych językach. Serwis jest we wczesnym stadium rozwoju, stopniowo będziemy zatem dodawać obługę kolejnych języków, jak również nowe funkcje, których obecnie brakuje.]]></description>
+            <content:encoded><![CDATA[<p>Serwis <a href="https://korpusomat.pl" target="_blank" rel="noopener noreferrer">Korpusomat.pl</a> istnieje już od kilku lat, ale jednym z najczęściej zadawanych przez jego użytkowników pytań dotyczyło możliwości przetwarzania tekstów napisanych w innych językach niż polski. W związku z tym udostępniliśmy niedawno wstępną wersję zupełnie nowego serwisu <a href="https://korpusomat.eu" target="_blank" rel="noopener noreferrer">Korpusomat.eu</a>, których obsługuje aktualnie 30 języków (w tym również polski). Sam proces przetwarzania i anotowania tekstów różni się dość istotnie od tego, który został zaimplementowany na stronie <a href="https://korpusomat.pl" target="_blank" rel="noopener noreferrer">Korpusomat.pl</a>, interfejs obu serwisów jest jednak bardzo podobny. <a href="https://korpusomat.eu" target="_blank" rel="noopener noreferrer">Korpusomat.eu</a> wykorzystuje do przetwarzania dwie znane biblioteki programistyczne spaCy oraz Stanza, oferujące modele do znakowania tekstów w różnych językach. Serwis jest we wczesnym stadium rozwoju, stopniowo będziemy zatem dodawać obługę kolejnych języków, jak również nowe funkcje, których obecnie brakuje. </p><p><a href="https://korpusomat.eu" target="_blank" rel="noopener noreferrer">Korpusomat.eu</a> postaje w <a href="https://zil.ipipan.waw.pl/" target="_blank" rel="noopener noreferrer">Zespole Inżynierii Lingwistycznej</a> <a href="https://ipipan.waw.pl/" target="_blank" rel="noopener noreferrer">Instytutu Podstaw Informatyki PAN</a> w ramach projektu CLARIN.</p>]]></content:encoded>
+            <category>korpusy</category>
+            <category>tworzenie korpusów</category>
+            <category>korpusomat</category>
+        </item>
+        <item>
+            <title><![CDATA[Hello, world!]]></title>
+            <link>https://www.korpusy.pl/blog/hello-world</link>
+            <guid>https://www.korpusy.pl/blog/hello-world</guid>
+            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Niniejsza strona ma za zadanie katalogować korpusy i narzędzia korpusowe tworzone w]]></description>
+            <content:encoded><![CDATA[<p>Niniejsza strona ma za zadanie katalogować korpusy i narzędzia korpusowe tworzone w
+<a href="https://zil.ipipan.waw.pl/" target="_blank" rel="noopener noreferrer">Zespole Inżynierii Lingwistycznej</a> <a href="https://ipipan.waw.pl/" target="_blank" rel="noopener noreferrer">Instytutu Podstaw Informatyki PAN</a> lub z jego pomocą i współudziałem. Będziemy na bieżąco dodawać (współ)tworzone przez nas korpusy oraz informować o nowościach i aktualizacjach na podstronie Blog. Zapraszamy do śledzenia!</p>]]></content:encoded>
+            <category>korpusy</category>
+            <category>IPI PAN</category>
+        </item>
     </channel>
 </rss>
