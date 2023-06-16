@@ -4,10 +4,16 @@
         <title>Korpusy.pl Blog</title>
         <link>https://www.korpusy.pl/blog</link>
         <description>Korpusy.pl Blog</description>
-        <lastBuildDate>Tue, 23 May 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 10:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[backup/test]]></title>
+            <link>https://www.korpusy.pl/blog/backup/test</link>
+            <guid>https://www.korpusy.pl/blog/backup/test</guid>
+            <pubDate>Fri, 16 Jun 2023 10:23:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Korpus języka ukraińskiego]]></title>
             <link>https://www.korpusy.pl/blog/korpus-jezyka-ukrainskiego</link>
