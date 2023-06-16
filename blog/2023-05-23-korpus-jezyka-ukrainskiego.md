@@ -1,11 +1,11 @@
 ---
 slug: korpus-jezyka-ukrainskiego
-title: Korpus języka ukraińskiego
-authors: [lkobylinski]
-tags: [ukraiński, korpus]
+title: PAWUK: Korpus internetowy języka ukraińskiego
+authors: [wkieras]
+tags: [język ukraiński, korpus, internet]
 ---
 
-Korpus monitorujący języka ukraińskiego powstał w IPI PAN w ramach realiacji projektu DARIAH.
+Udostępniliśmy niedawno pierwszą publiczną wersję [korpusu PAWUK](https://pawuk.ipipan.waw.pl/), czyli aktualizoanego codziennie korpusu internetowego języka ukraińskiego. Dane gromadzone są w korpusie od kwietnia 2022 r. i pochodzą zarówno z ukraińskich serwisów internetowych, jak i z wybranych sieci społecznościowych. Więcej szczegółów na temat znakowania korpusu można znaleźć na jego stronie w [zakładce About](https://pawuk.ipipan.waw.pl/overview). 
 
-Korpus zawiera obecnie XXX segmentów i jest anotowany na YYY poziomach.
+PAWUK zawiera obecnie ponad 800 milionów segmentów i powiększa się o 1-1,5 mln segmentów na dobę. Korpus jest cały czas we wstępnej fazie rozwoju i nie wszystkie funkcje jeszcze działają. Zachęcamy do testowania!
 
