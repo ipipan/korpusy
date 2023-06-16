@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkorpusy=self.webpackChunkkorpusy||[]).push([[6977],{3818:e=>{e.exports=JSON.parse('{"label":"internet","permalink":"/blog/tags/internet","allTagsPath":"/blog/tags","count":1}')}}]);

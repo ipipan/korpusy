@@ -8,17 +8,18 @@
     <subtitle>Korpusy.pl Blog</subtitle>
     <icon>https://www.korpusy.pl/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Korpus języka ukraińskiego]]></title>
+        <title type="html"><![CDATA[PAWUK, czyli korpus internetowy języka ukraińskiego]]></title>
         <id>https://www.korpusy.pl/blog/korpus-jezyka-ukrainskiego</id>
         <link href="https://www.korpusy.pl/blog/korpus-jezyka-ukrainskiego"/>
         <updated>2023-05-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Korpus monitorujący języka ukraińskiego powstał w IPI PAN w ramach realiacji projektu DARIAH.]]></summary>
-        <content type="html"><![CDATA[<p>Korpus monitorujący języka ukraińskiego powstał w IPI PAN w ramach realiacji projektu DARIAH.</p><p>Korpus zawiera obecnie XXX segmentów i jest anotowany na YYY poziomach.</p>]]></content>
+        <summary type="html"><![CDATA[Udostępniliśmy niedawno pierwszą publiczną wersję korpusu PAWUK, czyli aktualizoanego codziennie korpusu internetowego języka ukraińskiego. Dane gromadzone są w korpusie od kwietnia 2022 r. i pochodzą zarówno z ukraińskich serwisów internetowych, jak i z wybranych sieci społecznościowych. Więcej szczegółów na temat znakowania korpusu można znaleźć na jego stronie w zakładce About.]]></summary>
+        <content type="html"><![CDATA[<p>Udostępniliśmy niedawno pierwszą publiczną wersję <a href="https://pawuk.ipipan.waw.pl/" target="_blank" rel="noopener noreferrer">korpusu PAWUK</a>, czyli aktualizoanego codziennie korpusu internetowego języka ukraińskiego. Dane gromadzone są w korpusie od kwietnia 2022 r. i pochodzą zarówno z ukraińskich serwisów internetowych, jak i z wybranych sieci społecznościowych. Więcej szczegółów na temat znakowania korpusu można znaleźć na jego stronie w <a href="https://pawuk.ipipan.waw.pl/overview" target="_blank" rel="noopener noreferrer">zakładce About</a>. </p><p>PAWUK zawiera obecnie ponad 800 milionów segmentów i powiększa się o 1-1,5 mln segmentów na dobę. Korpus jest cały czas we wstępnej fazie rozwoju i nie wszystkie funkcje jeszcze działają. Zachęcamy do testowania!</p>]]></content>
         <author>
             <name>Łukasz Kobyliński</name>
-            <uri>http://zil.ipipan.waw.pl/LukaszKobylinski</uri>
+            <uri>http://zil.ipipan.waw.pl/WitoldKieras</uri>
         </author>
-        <category label="ukraiński" term="ukraiński"/>
+        <category label="język ukraiński" term="język ukraiński"/>
         <category label="korpus" term="korpus"/>
+        <category label="internet" term="internet"/>
     </entry>
 </feed>

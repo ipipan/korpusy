@@ -9,14 +9,15 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Korpus języka ukraińskiego]]></title>
+            <title><![CDATA[PAWUK, czyli korpus internetowy języka ukraińskiego]]></title>
             <link>https://www.korpusy.pl/blog/korpus-jezyka-ukrainskiego</link>
             <guid>https://www.korpusy.pl/blog/korpus-jezyka-ukrainskiego</guid>
             <pubDate>Tue, 23 May 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Korpus monitorujący języka ukraińskiego powstał w IPI PAN w ramach realiacji projektu DARIAH.]]></description>
-            <content:encoded><![CDATA[<p>Korpus monitorujący języka ukraińskiego powstał w IPI PAN w ramach realiacji projektu DARIAH.</p><p>Korpus zawiera obecnie XXX segmentów i jest anotowany na YYY poziomach.</p>]]></content:encoded>
-            <category>ukraiński</category>
+            <description><![CDATA[Udostępniliśmy niedawno pierwszą publiczną wersję korpusu PAWUK, czyli aktualizoanego codziennie korpusu internetowego języka ukraińskiego. Dane gromadzone są w korpusie od kwietnia 2022 r. i pochodzą zarówno z ukraińskich serwisów internetowych, jak i z wybranych sieci społecznościowych. Więcej szczegółów na temat znakowania korpusu można znaleźć na jego stronie w zakładce About.]]></description>
+            <content:encoded><![CDATA[<p>Udostępniliśmy niedawno pierwszą publiczną wersję <a href="https://pawuk.ipipan.waw.pl/" target="_blank" rel="noopener noreferrer">korpusu PAWUK</a>, czyli aktualizoanego codziennie korpusu internetowego języka ukraińskiego. Dane gromadzone są w korpusie od kwietnia 2022 r. i pochodzą zarówno z ukraińskich serwisów internetowych, jak i z wybranych sieci społecznościowych. Więcej szczegółów na temat znakowania korpusu można znaleźć na jego stronie w <a href="https://pawuk.ipipan.waw.pl/overview" target="_blank" rel="noopener noreferrer">zakładce About</a>. </p><p>PAWUK zawiera obecnie ponad 800 milionów segmentów i powiększa się o 1-1,5 mln segmentów na dobę. Korpus jest cały czas we wstępnej fazie rozwoju i nie wszystkie funkcje jeszcze działają. Zachęcamy do testowania!</p>]]></content:encoded>
+            <category>język ukraiński</category>
             <category>korpus</category>
+            <category>internet</category>
         </item>
     </channel>
 </rss>

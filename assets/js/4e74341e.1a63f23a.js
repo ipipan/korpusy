@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkorpusy=self.webpackChunkkorpusy||[]).push([[2106],{8465:s=>{s.exports=JSON.parse('{"label":"j\u0119zyk ukrai\u0144ski","permalink":"/blog/tags/jezyk-ukrainski","allTagsPath":"/blog/tags","count":1}')}}]);
