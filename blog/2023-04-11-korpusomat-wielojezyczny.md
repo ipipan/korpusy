@@ -1,5 +1,5 @@
 ---
-slug: korpus-eu
+slug: korpusomat-wielojezyczny
 title: Korpusomat wielojęzyczny
 authors: [wkieras]
 tags: [korpusy, tworzenie korpusów, korpusomat]
