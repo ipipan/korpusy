@@ -14,7 +14,7 @@ __Wyszukiwarka i znakowanie__:
 * [MTAS](http://sejmiki.nlp.ipipan.waw.pl/) — znakowanie: lematyzacja, znaczniki morfosyntaktyczne.
 
 __Osoba odpowiedzialna za korpus__:
-* Szymon Rutkowski — korpus powstał jako projekt studencki w ramach pracy magisterskiej (wsparcie techniczne: [Instytut Podstaw Informatyki PAN](http://www.ipipan.waw.pl/))
+* [Szymon Rutkowski](https://szymonrutkowski.pl/) — korpus powstał jako projekt studencki w ramach pracy magisterskiej (wsparcie techniczne: [Instytut Podstaw Informatyki PAN](http://www.ipipan.waw.pl/))
 
 __Wielkość korpusu__: 3,4 mln segmentów
 
