@@ -11,7 +11,7 @@ Anotacja korpusu odbyła się w ramach prac projektu Model formalny diachroniczn
 __Strona__: [korpus19.nlp.ipipan.waw.pl/](http://korpus19.nlp.ipipan.waw.pl/)
 
 __Wyszukiwarka i znakowanie__:
-* [MTAS](https://….pl/) — znakowanie: lematyzacja, znaczniki morfosyntaktyczne.
+* [MTAS](http://korpus19.nlp.ipipan.waw.pl/) — znakowanie: lematyzacja, znaczniki morfosyntaktyczne.
 
 __Jednostka odpowiedzialna za korpus__:
 * [Instytut Podstaw Informatyki PAN](http://www.ipipan.waw.pl/), 
