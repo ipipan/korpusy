@@ -126,6 +126,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/ipipan',
               },
+              {
+                label: 'Hugging Face',
+                href: 'https://huggingface.co/ipipan',
+              },
             ],
           },
         ],
