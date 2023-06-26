@@ -15,3 +15,6 @@ Korpusy gromadzące teksty z określonej domeny — zawężone do określonego g
 
 ## Korpusy obcojęzyczne
 Korpusy różnego typu obejmujące teksty w językach innych niż polski.
+
+## Narzędzia
+Narzędzia do budowania i analizowania korpusów. 
