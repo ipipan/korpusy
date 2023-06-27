@@ -10,7 +10,9 @@ __Strona__: [www.korpusomat.pl](https://korpusomat.pl/)
 
 __Szczegółowa dokumentacja__: [korpusomat.readthedocs.io](https://korpusomat.readthedocs.io/)
 
-__Publikacja__: 
+__Publikacja__:
+Witold Kieraś, Łukasz Kobyliński. Korpusomat – stan obecny i przyszłość projektu. Język Polski, CI(2):49–58, 2021. 
+
 ```
 @article{
     kie:kob:21,
