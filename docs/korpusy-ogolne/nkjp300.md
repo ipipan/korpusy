@@ -15,6 +15,9 @@ __Wyszukiwarki i znakowanie__: Korpus dostępny jest w trzech różnych wyszukiw
 * [Pelcra](http://www.nkjp.uni.lodz.pl/) — znakowanie: lematyzacja, znaczniki morfosyntaktyczne. 
 * [MTAS](https://nkjp.nlp.ipipan.waw.pl/) — znakowanie: lematyzacja, znaczniki morfosyntaktyczne, rozbiory składniowe (zależnościowe), jednostki nazewnicze. 
 
+![NKJP300 w wyszukiwarce Poliqarp](nkjp300-poliqarp.png "NKJP300 w wyszukiwarce Poliqarp")
+
+
 __Jednostka odpowiedzialna za korpus__: konsorcjum Narodowego Korpusu Języka Polskiego składające się z czterech jednostek:
 * [Instytutu Podstaw Informatyki PAN](http://www.ipipan.waw.pl/) (koordynator), 
 * [Instytutu Języka Polskiego PAN](http://www.ijp-pan.krakow.pl/), 
