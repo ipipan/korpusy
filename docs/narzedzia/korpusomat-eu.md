@@ -9,6 +9,8 @@ Aplikacja obsługuje obecnie 30 języków i do analizy fleksyjnej i składnioweg
 
 __Strona__: [www.korpusomat.eu](https://korpusomat.eu/)
 
+__Szczegółowa dokumentacja__: [korpusomat-eu.readthedocs.io](https://korpusomat-eu.readthedocs.io/)
+
 __Publikacja__:
 Saputa, K., Tomaszewska, A., Zawadzka-Paluektau, N., Kieraś, W., Kobyliński, Ł. (2023). Korpusomat.eu: A Multilingual Platform for Building and Analysing Linguistic Corpora. In: Mikyška, J., de Mulatier, C., Paszynski, M., Krzhizhanovskaya, V.V., Dongarra, J.J., Sloot, P.M. (eds) Computational Science – ICCS 2023. ICCS 2023. Lecture Notes in Computer Science, vol 14074. Springer, Cham. https://doi.org/10.1007/978-3-031-36021-3_22
 
