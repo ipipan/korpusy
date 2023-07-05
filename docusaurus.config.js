@@ -28,9 +28,30 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'pl',
+    locales: ['pl'],
   },
+
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'docs-informatyczne',
+        path: 'docs-informatyczne',
+        routeBasePath: 'docs-informatyczne',
+        sidebarPath: require.resolve('./sidebars.js'),
+      }, 
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'docs-narzedzia',
+        path: 'docs-narzedzia',
+        routeBasePath: 'docs-narzedzia',
+        sidebarPath: require.resolve('./sidebars.js'),
+      }, 
+    ]
+  ],
 
   presets: [
     [
@@ -38,6 +59,8 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: 'docs',
+          path: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -68,7 +91,7 @@ const config = {
       navbar: {
         title: 'Korpusy.pl',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Korpusy.pl',
           src: 'img/logo.svg',
         },
         items: [
@@ -76,7 +99,19 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Lista korpusów',
+            label: 'Korpusy dla językoznawców',
+          },
+          {
+            to: '/docs-informatyczne/intro',    // ./docs-api/Intro.md
+            label: 'Korpusy informatyczne',
+            position: 'left',
+            activeBaseRegex: `/docs-informatyczne/`,
+          },
+          {
+            to: '/docs-narzedzia/intro',    // ./docs-api/Intro.md
+            label: 'Narzędzia korpusowe',
+            position: 'left',
+            activeBaseRegex: `/docs-narzedzia/`,
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -93,8 +128,16 @@ const config = {
             title: 'Korpusy',
             items: [
               {
-                label: 'Lista korpusów',
+                label: 'Korpusy dla językoznawców',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Korpusy informatyczne',
+                to: '/docs-informatyczne/intro',
+              },
+              {
+                label: 'Narzędzia korpusowe',
+                to: '/docs-narzedzia/intro',
               },
             ],
           },
