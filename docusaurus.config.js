@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Korpusy.pl',
-  tagline: 'Wszystko o korpusach językowych',
+  tagline: 'Wszystko o korpusach współtworzonych przez Instytut Podstaw Informatyki PAN',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
