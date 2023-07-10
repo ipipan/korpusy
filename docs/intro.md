@@ -5,7 +5,7 @@ sidebar_position: 1
 # Lista korpusów
 
 ## Korpusy ogólne
-[link](./korpusy-ogolne/)
+[link](../category/korpusy-ogolne/)
 Obszerne referencyjne korpusy polszczyzny użytku ogólnego — zarówno zrównoważone, jak i niezrównoważone. 
 
 ## Korpusy historyczne
