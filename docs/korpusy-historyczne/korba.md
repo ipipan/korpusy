@@ -23,7 +23,7 @@ __Czas powstania__: 2013-2023
 
 __Publikacja__: Włodzimierz Gruszczyński, Dorota Adamiec, Renata Bronikowska, Witold Kieraś, Emanuel Modrzejewski, Aleksandra Wieczorek, and Marcin Woliński. The Electronic Corpus of 17th- and 18th-century Polish Texts. *Language Resources and Evaluation*, 56(1):309–332, 2022.
 
-'''
+```
 @article{
     gru:etal:2022,
     author = "Gruszczyński, Włodzimierz and Adamiec, Dorota and Bronikowska, Renata and Kieraś, Witold and Modrzejewski, Emanuel and Wieczorek, Aleksandra and Woliński, Marcin",
@@ -36,4 +36,4 @@ __Publikacja__: Włodzimierz Gruszczyński, Dorota Adamiec, Renata Bronikowska, 
     pdf = "https://link.springer.com/content/pdf/10.1007/s10579-021-09549-1.pdf",
     pages = "309--332"
 }
-'''
+```
