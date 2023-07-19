@@ -13,7 +13,7 @@ __Strona__: [korba.edu.pl](https://korba.edu.pl)
 __Wyszukiwarka i znakowanie__:
 * [MTAS](https://korba.edu.pl/) — znakowanie: transkrypcja, lematyzacja, znaczniki morfosyntaktyczne.
 
-__Jednostka odpowiedzialna za korpus__:
+__Jednostki odpowiedzialne za korpus__:
 * [Pracownia Historii Języka Polskiego XVII i XVIII Wieku](https://ijp.pan.pl/pracownie/pracownia-historii-jezyka-polskiego-xvii-i-xviii-wieku/) [Instytutu Języka Polskiego PAN](https://ijp.pan.pl/),
 * Wsparcie techniczne: [Zespół Inżynierii Lingwistycznej](https://zil.ipipan.waw.pl) [Instytutu Podstaw Informatyki PAN](http://www.ipipan.waw.pl/).
 
