@@ -14,7 +14,7 @@ __Wyszukiwarka i znakowanie__:
 * [MTAS](https://korba.edu.pl/) — znakowanie: transkrypcja, lematyzacja, znaczniki morfosyntaktyczne.
 
 __Jednostka odpowiedzialna za korpus__:
-• [Pracownia Historii Języka Polskiego XVII i XVIII Wieku](https://ijp.pan.pl/pracownie/pracownia-historii-jezyka-polskiego-xvii-i-xviii-wieku/) [Instytutu Języka Polskiego PAN](https://ijp.pan.pl/),
+* [Pracownia Historii Języka Polskiego XVII i XVIII Wieku](https://ijp.pan.pl/pracownie/pracownia-historii-jezyka-polskiego-xvii-i-xviii-wieku/) [Instytutu Języka Polskiego PAN](https://ijp.pan.pl/),
 * Wsparcie techniczne: [Zespół Inżynierii Lingwistycznej](https://zil.ipipan.waw.pl) [Instytutu Podstaw Informatyki PAN](http://www.ipipan.waw.pl/).
 
 __Wielkość korpusu__: 13,5 mln segmentów
