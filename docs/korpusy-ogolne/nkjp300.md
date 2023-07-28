@@ -28,7 +28,8 @@ __Wielkość korpusu__: 300 milionów segmentów
 
 __Czas powstania__: 2007-2012
 
-__Publikacja__: Adam Przepiórkowski, Mirosław Bańko, Rafał L. Górski, and Barbara Lewandowska-Tomaszczyk, editors. Narodowy Korpus Języka Polskiego. Wydawnictwo Naukowe PWN, Warszawa, 2012.
+## Publikacja 
+Adam Przepiórkowski, Mirosław Bańko, Rafał L. Górski, and Barbara Lewandowska-Tomaszczyk, editors. Narodowy Korpus Języka Polskiego. Wydawnictwo Naukowe PWN, Warszawa, 2012.
 
 ```
 @book{
