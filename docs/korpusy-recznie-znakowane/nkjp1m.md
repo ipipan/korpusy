@@ -7,6 +7,8 @@ sidebar_position: 1
 
 __Strona__: [nkjp1m.nlp.ipipan.waw.pl](http://nkjp1m.nlp.ipipan.waw.pl)
 
+## Opis
+
 __Warstwy ręcznego znakowania__:
 * segmentacja
 * lematyzacja
