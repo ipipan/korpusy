@@ -16,7 +16,7 @@ __Warstwy ręcznego znakowania__:
 * ujednoznacznie znaczeń słów (ograniczone do wybranego podzbioru słownictwa)
 
 Szczegółowy opis wszystkich warstw znakowania można znaleźć w książce:
-Adam Przepiórkowski, Mirosław Bańko, Rafał L. Górski, and Barbara Lewandowska-Tomaszczyk, editors. Narodowy Korpus Języka Polskiego. Wydawnictwo Naukowe PWN, Warszawa, 2012. [PDF](http://nkjp.pl/settings/papers/NKJP_ksiazka.pdf)
+Adam Przepiórkowski, Mirosław Bańko, Rafał L. Górski, and Barbara Lewandowska-Tomaszczyk, editors. Narodowy Korpus Języka Polskiego. Wydawnictwo Naukowe PWN, Warszawa, 2012. [\[PDF\]](http://nkjp.pl/settings/papers/NKJP_ksiazka.pdf)
 
 __Wyszukiwarki__:
 * [Poliqarp](http://nkjp.pl/poliqarp/nkjp1M/) — pozwala na przeszukiwanie tylko warstwy lematyzacji i znakowania morfosyntaktycznego
