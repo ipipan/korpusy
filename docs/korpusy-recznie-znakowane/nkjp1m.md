@@ -21,3 +21,5 @@ Adam Przepiórkowski, Mirosław Bańko, Rafał L. Górski, and Barbara Lewandows
 __Wyszukiwarki__:
 * [Poliqarp](http://nkjp.pl/poliqarp/nkjp1M/) — pozwala na przeszukiwanie tylko warstwy lematyzacji i znakowania morfosyntaktycznego
 * [MTAS](http://nkjp1m.nlp.ipipan.waw.pl) — pozwala na przeszukiwanie wszystkich wartw poza słowami składniowymi
+
+Wyszukiwarka Poliqarp indeksuje korpus NKJP1M z oryginalnym tagsetem NKJP, wyszukiwarka MTAS zaś — wersję uspójnioną z tagsetem analizatora [Morfeusz](https://morfeusz.sgjp.pl/).
