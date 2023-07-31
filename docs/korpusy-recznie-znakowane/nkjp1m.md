@@ -17,7 +17,7 @@ __Warstwy ręcznego znakowania__:
 * grupy składniowe
 * ujednoznacznie znaczeń słów (ograniczone do wybranego podzbioru słownictwa)
 
-Szczegółowy opis wszystkich warstw znakowania można znaleźć w [książce *Narodowy Korpus Języka Polskiego*](#Publikacja).
+Szczegółowy opis wszystkich warstw znakowania można znaleźć w [książce *Narodowy Korpus Języka Polskiego*](#publikacja).
 
 __Wyszukiwarki__:
 * [Poliqarp](http://nkjp.pl/poliqarp/nkjp1M/) — pozwala na przeszukiwanie tylko warstwy lematyzacji i znakowania morfosyntaktycznego
