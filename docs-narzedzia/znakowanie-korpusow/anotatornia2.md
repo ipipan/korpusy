@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Anotatornia 2 to aplikacja webowa służąca do ręcznego znakowania fleksyjnego korpusów. Została stworzona z myślą przede wszystkim o korpusach historycznych, ponieważ przechowuje dwie warstwy tekstowe: transliterowaną i transkrybowaną. Z powodzeniem może jednak służyć również do znakowania korpusów współczesnych, w których dwie reprezentacje tekstowe nie są potrzebne.
 
-Za pomocą Anotatorni 2 znakowano ręcznie pozdbiory *Elektronicznego korpusu tekstów polskich z XVII i XVIII w. (do 1772 r.)* oraz *Korpusu tekstów polskich z lat 1830-1918*, a także wprowadzano poprawki w [NKJP1M](/docs/korpusy-recznie-znakowane/nkjp1m) i Korpusie SFPW. 
+Za pomocą Anotatorni 2 znakowano ręcznie pozdbiory *Elektronicznego korpusu tekstów polskich z XVII i XVIII w. (do 1772 r.)* oraz *Korpusu tekstów polskich z lat 1830-1918*, a także wprowadzano poprawki w [NKJP1M](/docs/korpusy-recznie-znakowane/nkjp1m) i [Korpusie SFPW](/docs/korpusy-recznie-znakowane/ksfpw). 
 
 __Strona__: [http://zil.ipipan.waw.pl/Anotatornia2](http://zil.ipipan.waw.pl/Anotatornia2)
 
