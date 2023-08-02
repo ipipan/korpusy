@@ -12,7 +12,7 @@ Za pomocą Anotatorni 2 znakowano ręcznie pozdbiory *Elektronicznego korpusu te
 
 __Strona__: [http://zil.ipipan.waw.pl/Anotatornia2](http://zil.ipipan.waw.pl/Anotatornia2)
 
-## Publikacja:
+## Publikacja
 Marcin Woliński, Witold Kieraś, and Dorota Komosińska. Anotatornia 2 — an annotation tool geared towards historical corpora. In Zygmunt Vetulani and Patrick Paroubek, editors, Proceedings of the 8th Language & Technology Conference: Human Language Technologies as a Challenge for Computer Science and Linguistics, pages 158–162, Poznań, Poland, 2017. Fundacja Uniwersytetu im. Adama Mickiewicza w Poznaniu. 
 
 ```
