@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Korpus Współczesnego Języka Polskiego: NKJP
+# Korpus Współczesnego Języka Polskiego: KWJP
 
 Zrównoważony i reprezentatywny korpus obejmujący teksty z lat 2011-2020. 
 
