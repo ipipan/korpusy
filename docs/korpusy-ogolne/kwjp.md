@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Korpus Współczesnego Języka Polskiego: KWJP
 
-Zrównoważony i reprezentatywny korpus obejmujący teksty z lat 2011-2020. 
+Zrównoważony i reprezentatywny korpus polszczyzny pisanej obejmujący teksty z lat 2011-2020. Korpus jest podzielony na trzy główne gatunki: fikcja (powieści i opowiadania), fakt (książki niefikcjonalne, czasopisma tematyczne) i publicystyka (prasa informacyjna: dzienniki i tygodniki ogólnopolskie i regionalne).
 
 ## Opis
 
